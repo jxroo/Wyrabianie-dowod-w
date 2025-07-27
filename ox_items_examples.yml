@@ -1,0 +1,7 @@
+id_card:
+  label: Dowod osobisty
+  weight: 0
+  stack: false
+  close: true
+  consume: false
+  description: Dokument tozsamosci wlasciciela postaci
